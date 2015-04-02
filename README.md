@@ -1,5 +1,7 @@
 # SpaceEvadersPlayable
-Playable current build of my endless Runner SpaceEvaders.  Source Code can be requested via email
+Playable current build of my endless Runner SpaceEvaders.  Source Code can be requested via email.
+
+Submission for PurpleMonkey Game Jam's Theme:  Let Our Powers Combine
 
 In this game, you must cooperate with a teammate to make it as far as possible through the spaceship. 
 Each player has a primary color, and you must work together to mix your primary colors to match 
